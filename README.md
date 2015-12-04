@@ -1,2 +1,3 @@
-# talks-and-interviews
-A list of my talks and interviews.
+# Talks & Interviews
+
+* [Program with Erik](http://www.programwitherik.com/how-to-interview-for-a-javascript-job-with-eric-elliott/)
